@@ -1,2 +1,2 @@
 # FSD03firstgitrepo
-Richard has updated the README file.
+Zhi Yan has updated the README file.
